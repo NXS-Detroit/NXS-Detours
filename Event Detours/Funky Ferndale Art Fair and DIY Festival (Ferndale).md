@@ -1,6 +1,6 @@
 During the [Funky Ferndale Art Fair](https://www.funkyferndaleartfair.com/) and [Ferndale DIY Festival](http://www.ferndalediy.com/), the following routes are detoured:
 
-Jump to route: 9, 66, 430, 590
+Jump to route: [9](#9-nine-mile), [66](#66-rochester--livernois), [430](#430-wyoming--ferndale), [590](#590-woodward-fast-line)
 
 # Dates
 The festivals happen simultaneously, around the third weekend of September.  
