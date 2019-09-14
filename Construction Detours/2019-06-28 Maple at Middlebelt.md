@@ -8,4 +8,4 @@ Due to construction on Maple at Middlebelt, the following routes are on detour u
 * *Westbound Orange Line buses will stop on southbound Inkster at Maple.*
 
 # Update info
-Detour was last checked on `2019-09-04`, confirmed by Google Maps, using `October 2019` NXS routes.
+Detour was last checked on `2019-09-04`, confirmed by Google Maps, using `July 2019` NXS routes.

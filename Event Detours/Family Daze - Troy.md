@@ -3,7 +3,9 @@ During the Troy Family Daze Festival, the following routes will be detoured:
 Jump to route: [505](#505-woodward-somerset), [570](#570-main-street--big-beaver), [804, 875](#804-troy-sky-line--875-auburn-hills-express-line)
 
 # Dates
-Troy Family Daze occurs around the second or third weekend in September. In 2019 the dates are Thursday September 12 through Sunday September 15.
+Troy Family Daze occurs around the second or third weekend in September.
+
+* **2019:** September 12-15
 
 # Detours by route
 

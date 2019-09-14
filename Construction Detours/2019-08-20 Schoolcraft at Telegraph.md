@@ -14,4 +14,4 @@ Due to construction on Schoolcraft (the I-96 service drive) underneath the Teleg
 * \*Eastbound route 4 and northbound route 60 will turn directly onto Schoolcraft.
 
 # Update information
-Detour was last checked on `4 September 2019`, verified by [SMART route 805 detour](http://www.smartbus.org/Schedules/Service-Bulletins), using `October 2019` routings.
+Detour was last checked on `14 September 2019`, verified by [SMART route 805 detour](https://web.archive.org/web/20190914144108/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/984), using `July 2019` routings.
