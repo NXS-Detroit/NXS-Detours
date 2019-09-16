@@ -19,5 +19,5 @@ Jump to route: [15](#15-fifteen-mile), [95](#95-oakland-fast-line)
 Routes 15 and 95 run in parallel from 14 Mile / Orchard Lake to Maple / Inkster. All routes that could be caught at Maple / Orchard Lake are also present at 14 Mile / Orchard Lake. For connection between Maple / Orchard Lake and route 95, route 400 runs 24/7.
 
 # Update info
-* Detour was updated `2019-09-16` to take effect `2019-09-28` according to [SMART 780 detour](https://web.archive.org/web/20190916150603/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/1009).
+* Detour was updated `2019-09-16` according to [SMART 780 detour](https://web.archive.org/web/20190916150603/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/1009).
 * Detour was last checked on `2019-09-04`, confirmed by Google Maps, using `July 2019` NXS routes.
