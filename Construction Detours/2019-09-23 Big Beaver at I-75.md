@@ -1,4 +1,4 @@
-Due to construction on the I-75 bridge over Big Beaver, the following routes are on detour Monday 2019-09-23 and Wednesday 2019-09-25 (but *not* Tuesday 2019-09-24) from 10pm til 5am the next morning:
+Due to construction on the I-75 bridge over Big Beaver, the following routes are on detour Monday 2019-09-23 *only* from 10pm til 5am the next morning:
 
 **Jump to route:** (95)[#95-oakland-fast-line], (804)[#804-troy-sky-line], (875)[#875-oakland-county-express-line]
 
@@ -26,4 +26,5 @@ Due to construction on the I-75 bridge over Big Beaver, the following routes are
 Transfers on affected routes may be made at Oakland Mall, Troy Nexus, or Somerset Collection.
 
 # Update info
+* Detour was updated `2019-09-23` from [SMART route 461 detour revision 1](https://web.archive.org/web/20190923173607/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/1016) - only takes effect tonight, not Wednesday.
 * Detour was updated `2019-09-20` according to [SMART route 461 detour](https://web.archive.org/web/20190920143445/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/1013).
