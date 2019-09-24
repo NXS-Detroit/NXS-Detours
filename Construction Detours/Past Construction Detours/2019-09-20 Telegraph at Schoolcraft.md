@@ -1,6 +1,6 @@
 Due to construction on Telegraph between 5 Mile and Schoolcraft, the following routes are on detour 2019-09-20 at 8am through 2019-09-23 at 5pm:
 
-**Jump to route:** (59, 90)[#59-telegraph-local--90-telegraph-fast-line]
+**Jump to route:** [59, 90](#59-telegraph-local--90-telegraph-fast-line)
 
 # Detours by route
 
