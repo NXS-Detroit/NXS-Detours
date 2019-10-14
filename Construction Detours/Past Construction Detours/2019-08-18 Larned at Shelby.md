@@ -20,4 +20,5 @@ Due to emergency water main repair work at Larned and Shelby, the following rout
 * **SB 800/875/894, WB 810/853, NB 816** *Not detoured at this time.*
 
 # Update information
-Detour last checked on `13 Sep 2019`, confirmed by [SMART service bulletin 977](https://web.archive.org/web/20190913205537/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/977), using `July 2019` NXS routes.
+* Detour was ended `2019-10-08`, confirmed by [SMART service bulletin 1021](https://web.archive.org/web/20191014161138/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/1021), using `July 2019` NXS routes.
+* Detour last checked on `13 Sep 2019`, confirmed by [SMART service bulletin 977](https://web.archive.org/web/20190913205537/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/977), using `July 2019` NXS routes.
