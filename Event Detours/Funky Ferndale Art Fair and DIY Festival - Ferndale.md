@@ -1,6 +1,6 @@
 During the [Funky Ferndale Art Fair](https://www.funkyferndaleartfair.com/) and [Ferndale DIY Festival](http://www.ferndalediy.com/), the following routes are detoured:
 
-Jump to route: [9](#9-nine-mile), [66](#66-rochester--livernois), [430](#430-wyoming--ferndale), [590](#590-woodward-fast-line)
+Jump to route: [Red Line](#red-line), [9](#9-nine-mile), [66](#66-rochester--livernois), [430](#430-wyoming--ferndale)
 
 # Dates
 The festivals happen simultaneously, around the third weekend of September.  
@@ -24,6 +24,9 @@ No change to route, but northbound and southbound buses will stop at the stops a
 
 # Transfer information
 All affected routes meet at Woodward and Marshall. Temporary stops will go up on eastbound and westbound Marshall at Woodward for bus tracking purposes.
+
+# Temporary IDs
+This detour uses temporary bus stops, which can have different numbers from year to year. The IDs of the stops are made available within a couple weeks of the event and listed below.
 
 # Update information
 The detour was last updated `14 September 2019` for `October 2019` NXS routes.

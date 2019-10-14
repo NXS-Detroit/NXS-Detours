@@ -1,6 +1,6 @@
 During the Troy Family Daze Festival, the following routes will be detoured:
 
-Jump to route: [505](#505-woodward-somerset), [570](#570-main-street--big-beaver), [804, 875](#804-troy-sky-line--875-auburn-hills-express-line)
+Jump to route: [505](#505-woodward-somerset), [570](#570-main-street--big-beaver), [580](#580-troy-malls-shuttle), [804, 875](#804-troy-sky-line--875-auburn-hills-express-line)
 
 # Dates
 Troy Family Daze occurs around the second or third weekend in September.
@@ -13,7 +13,7 @@ Troy Family Daze occurs around the second or third weekend in September.
 * **Northbound**: Normal to northbound Civic Center Drive past Town Center (south), left Town Center (north), left into Troy Civic Center Park & Ride Lot (end of route).
 * **Southbound**: From the Troy Civic Center Park & Ride Lot, turn right on Town Center Drive and follow normal route.
 
-## 525 Main Street / Big Beaver
+## 570 Main Street / Big Beaver
 * **Northbound**: Normal to westbound Town Center Drive, left Civic Center (north), continue past Town Center (south) into normal.
 * **Southbound**: Normal to northbound Civic Center Drive past Town Center (south), right Town Center (north) into normal.
 

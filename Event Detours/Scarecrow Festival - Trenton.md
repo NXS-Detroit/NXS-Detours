@@ -1,6 +1,6 @@
 During the Trenton Scarecrow Festival, the following routes will be detoured:
 
-**Jump to route:** ~~[INSERT LIST]~~
+**Jump to route:** [100](#100-fort-street), [109](#109-west-jefferson), [900](#900-monroe)
 
 # Dates
 The Trenton Scarecrow Festival takes place during the Saturday and Sunday around the last weekend in September.
