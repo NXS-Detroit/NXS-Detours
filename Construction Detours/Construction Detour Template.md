@@ -1,4 +1,4 @@
-Due to ~~[INSERT REASON]~~, the following routes are on detour until further notice:
+Due to ~~[INSERT REASON]~~, the following routes are on detour ~~[until further notice]~~:
 
 **Jump to route:** ~~[INSERT LIST]~~
 
