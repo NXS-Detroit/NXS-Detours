@@ -26,4 +26,4 @@ The Trenton Scarecrow Festival takes place during the Saturday and Sunday around
 All buses stop near the area of Third and St Joseph. In addition, normal transfer points along Jefferson apply to route 109.
 
 # Update info
-* Detour was updated `2019-09-22`, for `July 2019` NXS routes, according to [SMART 160 detour](https://web.archive.org/web/20190920143517/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/1014).
+* Detour was updated `2019-09-22`, for `October 2019` NXS routes, according to [SMART 160 detour](https://web.archive.org/web/20190920143517/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/1014).
