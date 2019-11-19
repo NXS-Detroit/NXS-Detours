@@ -1,8 +1,8 @@
 During the Thanksgiving Day Parade and S3 Turkey Trot, the following routes will be detoured:
 
-**Station info**  
-**Jump to route:** Blue Line, Green Line, Pink Line, Purple Line, Red Line, 1, 75, 100, 105, 109, 200, 203, 300, 305, 400, 405, 500, 505, 508, 600, 605, 700, 720, 800, 804, 814, 950
-**Temporary numbers**
+**[Station info](#station-info)**  
+**Jump to route:** [Blue Line](#blue-line--200-michigan), [Green Line](#green-line), [Pink Line](#pink-line), [Purple Line](#purple-line), [Red Line](#red-line--500505-woodward), [1](#1-warren), [75](#75-hayes--canfield), [100](#100-fort-street--109-west-jefferson), [105](#105-vernor--ecorse), [109](#100-fort-street--109-west-jefferson), [200](#blue-line--200-michigan), [203](#203-plymouth--305-fenkell), [300](#300-grand-river), [305](#203-plymouth--305-fenkell), [400](#400-northwestern--lodge), [405](#405-dexter--southfield), [500, 505](#red-line--500505-woodward), [508](#508-john-r--hamtramck), [600](#600-gratiot), [605, 700](#605-van-dyke--700-jefferson--harper), [720](#720-mack), [800](#800-downtown-detroit-sky-line), [804](#804-troy-sky-line), [814](#814-ann-arbor-express-line), [950](#950-detroit-windsor-tunnel)
+**[Temporary numbers](#temporary-id-info)**
 
 # Dates
 Detours are in effect on the day of the Parade, from 5am until 5pm. For detours of the day before the Parade, see [Thanksgiving Day Staging](Thanksgiving%20Day%20Staging%20-%20Detroit.md).
@@ -12,7 +12,8 @@ Detours are in effect on the day of the Parade, from 5am until 5pm. For detours 
 ## Bagley/First Station
 All Fast Lines and routes 100, 105, 109, 200, 203, 300, 305, 400, 405, 500, 505, 800, 814, and 950 serve Bagley Station on the west side of Downtown Detroit.
 
-Inbound buses drop off at the stop on eastbound Bagley, stop #746; and outbound buses pick up at stops along westbound Bagley, all #494.
+* Inbound buses drop off at the stop on eastbound Bagley, stop #746.
+* Outbound buses pick up at stops along westbound Bagley, all #494.
 
 Due to the number of buses picking up, multiple stops are located on westbound Bagley; route numbers serving each stop are displayed on signs.
 
@@ -54,7 +55,7 @@ This is a regular station with enclosed platforms and offboard ticketing; there 
 ## Red Line || 500/505 Woodward
 * **Southbound:** Normal to southbound Woodward, right Grand Boulevard, left Cass, right Fisher Service Drive, left Third, left Bagley past First (end of route).
 * **Northbound:** From westbound Bagley at First, right Third, right Fisher Service Drive, left Cass, right Grand Boulevard, left Woodward into normal.
-* **Detour stops:** Normal stops north of but excluding Woodward/New Center Nexus; Cass/New Center Nexus (NB-#2599, SB-#2865); Cass/Warren (NB-#2592, SB-#2872); Cass/MLK (NB-#2587, SB-#2877); Cass/Temple(NB-#2585, SB-#2879); Bagley/First.
+* **Detour stops for Red Line:** Normal stops north of but excluding Woodward/New Center Nexus; Cass/New Center Nexus (NB-#2599, SB-#2865); Cass/Warren (NB-#2592, SB-#2872); Cass/MLK (NB-#2587, SB-#2877); Cass/Temple(NB-#2585, SB-#2879); Bagley/First.
 
 ## 1 Warren
 * **Eastbound:** Normal to eastbound Warren, turn left on Lodge-Warren Busway, turn right on Ford-Lodge Busway to eastbound I-94, keep left for Ford-Chrysler Busway, turn right on Chrysler-Ford Busway to southbound I-75, keep left for Chrysler-Warren Busway, turn left on Warren into normal route.
@@ -145,7 +146,8 @@ Without the construction of 2019, the detour is as follows:
 This detour uses temporary routes and/or stops. Due to the nature of temporary routes and stops, numbers can change from year to year. Please see below for the numbers on a given year.
 
 ## 2019
-~~[INSERT IDS HERE]~~
+* Greyhound Express: Route 990
+* Downtown Express: Route 991
 
 # Update info
-* Detour was updated `~~[DATE]~~`, for `~~[SERVICE CHANGE]~~` NXS routes, according to [~~[SOURCE]~~](~~[SOURCE%20LINK]~~).
+* Detour was updated `2019-11-19`, for `October 2019` NXS routes, with road closure information from [The Parade Company's website](https://theparade.org/americas-thanksgiving-parade/visitor-info/).
