@@ -5,3 +5,4 @@ Due to construction, route 470 Civic Center Drive on detour until further notice
 
 # Update info
 * Detour was updated `2019-10-14` according to [SMART service bulletin 1017](https://web.archive.org/web/20191014160830/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/1017).
+* As of 2019-11-14, construction has completed. The detour is over.

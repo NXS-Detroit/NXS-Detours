@@ -43,3 +43,4 @@ All affected routes meet at Coolidge / Golfview. Additionally, all routes except
 
 # Update info
 * Detour was updated `2019-10-14`; notification was from [SMART detours](https://web.archive.org/web/20191014160841/http://www.smartbus.org/Schedules/Service-Bulletins) but route was customized.
+* As of `2019-10-18` construction and detours have ended.

@@ -32,3 +32,4 @@ All affected NXS routes meet on southbound Fourth across from the Blake Transit 
 
 # Update info
 * Detour was updated `2019-10-14` according to [Google Maps](https://www.google.com/maps/@42.2784047,-83.7455259,17.25z/data=!5m1!1e1).
+* Detour was last checked `2019-11-18` by Google Maps and has not changed.

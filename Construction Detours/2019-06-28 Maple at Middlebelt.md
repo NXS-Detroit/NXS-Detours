@@ -20,4 +20,4 @@ Routes 15 and 95 run in parallel from 14 Mile / Orchard Lake to Maple / Inkster.
 
 # Update info
 * Detour was updated `2019-09-16` according to [SMART 780 detour](https://web.archive.org/web/20190916150603/http://www.smartbus.org/Schedules/Service-Bulletins/BulletinId/1009).
-* Detour was last checked on `2019-09-04`, confirmed by Google Maps, using `July 2019` NXS routes.
+* Detour was last checked on `2019-11-18`, confirmed by Google Maps, using `July 2019` NXS routes.

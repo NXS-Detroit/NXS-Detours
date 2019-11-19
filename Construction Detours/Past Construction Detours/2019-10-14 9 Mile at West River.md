@@ -14,3 +14,4 @@ Affected routes can still make all transfers at the 9 Mile entrance to West Rive
 
 # Update info
 * Detour was updated `2019-10-14` according to [Google Maps](https://www.google.com/maps/@42.4554123,-83.348679,17z/data=!5m1!1e1).
+* As of `2019-11-18` the construction is over and the detours have ended.
